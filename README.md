@@ -112,7 +112,7 @@ Cada exemplo mostra como o contexto, a emoção e a estrutura narrativa tornam o
 
 ---
 
-📎 **Repositório:** [Storytelling-CEUB-2025](https://antonio22551431.github.io/Storytelling-CEUB-2025/)  
+📎 **Repositório:** [Storytelling-CEUB-2025](https://github.com/antonio-datascience/Storytelling)  
 👨‍🎓 **Autor:** Antonio — RA 22551431  
 🎓 **Professor:** Fabio Oliveira Guimarães  
 🗓️ **Ano:** 2025  
