@@ -1,6 +1,6 @@
 # 🌑 Storytelling com Dados — CEUB 2025  
 
-**Aluno:** Antonio — RA 22551431  
+**Aluno:** Antonio - RA 22551431  
 **Professor:** Fabio Oliveira Guimarães  
 **Disciplina:** Introdução à Ciência de Dados - Turma UN - 0725  
 **Instituição:** CEUB  
