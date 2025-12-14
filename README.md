@@ -1,4 +1,4 @@
-# 🌑 Storytelling com Dados — CEUB 2025  
+# 🌑 Storytelling com Dados - CEUB 2025  
 
 **Aluno:** Antonio - RA 22551431  
 **Professor:** Fabio Oliveira Guimarães  
