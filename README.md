@@ -8,7 +8,7 @@
 
 ---
 
-## 🧩 Questão 1 — Estrutura Narrativa em Projetos de Dados
+## 🧩 Questão 1 - Estrutura Narrativa em Projetos de Dados
 
 > “Um modelo de machine learning para prever churn de clientes alcançou 92% de precisão...”
 
@@ -26,7 +26,7 @@ O cientista utilizou a estrutura **“Problema → Solução → Benefício”**
 
 ---
 
-## 📊 Questão 2 — Visualização como Ferramenta Narrativa
+## 📊 Questão 2 - Visualização como Ferramenta Narrativa
 
 > “Gráfico A: Tabela com números de conversão...”  
 > “Gráfico B: Mapa de calor do funil...”
@@ -41,11 +41,11 @@ O **Gráfico B** (mapa de calor) conta uma história muito mais eficaz.
 | **Emoção** | Neutra, técnica | Evoca urgência e senso de alerta |
 | **Ação** | Informação crua | Mostra claramente **onde agir** |
 
-> O Gráfico B não é apenas visual — é **narrativo**: mostra, emociona e orienta.
+> O Gráfico B não é apenas visual - é **narrativo**: mostra, emociona e orienta.
 
 ---
 
-## 💡 Questão 3 — Do Insight à Ação
+## 💡 Questão 3 - Do Insight à Ação
 
 > “Clientes que compram todo mês e usam múltiplos canais têm LTV 3x maior...”
 
@@ -55,7 +55,7 @@ O **Gráfico B** (mapa de calor) conta uma história muito mais eficaz.
   Clientes mensais e multicanais valem 3x mais.
 
 - **E daí?**  
-  São os mais lucrativos para o negócio — maior Lifetime Value.
+  São os mais lucrativos para o negócio - maior Lifetime Value.
 
 - **E agora?**  
   Criar um **programa especial** para retenção e incentivo:
@@ -65,7 +65,7 @@ O **Gráfico B** (mapa de calor) conta uma história muito mais eficaz.
 
 ---
 
-## 👥 Questão 4 — Personas e Jornada do Usuário
+## 👥 Questão 4 - Personas e Jornada do Usuário
 
 > “Um e-commerce quer reduzir o abandono de carrinho...”
 
@@ -82,7 +82,7 @@ O **Gráfico B** (mapa de calor) conta uma história muito mais eficaz.
 
 ---
 
-## ⚖️ Questão 5 — Ética e Contexto na Narrativa
+## ⚖️ Questão 5 - Ética e Contexto na Narrativa
 
 > “Analista X: 30% dos funcionários são mulheres”  
 > “Analista Y: 47% das novas contratações são mulheres, mas apenas 12% estão em liderança...”
@@ -91,7 +91,7 @@ O **Gráfico B** (mapa de calor) conta uma história muito mais eficaz.
 
 - **Melhor narrativa:** Analista **Y**, pois fornece **contexto e diagnóstico**.  
 - **Por quê?**  
-  Ele não apenas mostra o número — **revela o problema**: o gargalo está na promoção, não na contratação.
+  Ele não apenas mostra o número - **revela o problema**: o gargalo está na promoção, não na contratação.
 
 ### 📉 Falta de contexto gera erro:
 > Sem contexto, criamos interpretações erradas (“a empresa não contrata mulheres”), mesmo que o problema seja outro.
@@ -113,7 +113,7 @@ Cada exemplo mostra como o contexto, a emoção e a estrutura narrativa tornam o
 ---
 
 📎 **Repositório:** [Storytelling-CEUB-2025](https://github.com/antonio-datascience/Storytelling)  
-👨‍🎓 **Autor:** Antonio — RA 22551431  
+👨‍🎓 **Autor:** Antonio - RA 22551431  
 🎓 **Professor:** Fabio Oliveira Guimarães  
 🗓️ **Ano:** 2025  
 
